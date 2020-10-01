@@ -1,0 +1,52 @@
+:root {
+  --s: 80%;
+  --splus: calc(var(--s) * 1.25);
+  --splus: 98%;
+
+  --hred: 0;
+  --horange: 36;
+  --hyellow: 56;
+  --hgreen: 124;
+  --hblue: 212;
+  --hpurple: 272;
+  
+  --l1: 56%;
+  --red1: hsl(var(--hred), var(--splus), var(--l1));
+  --orange1: hsl(var(--horange), var(--splus), var(--l1));
+  --yellow1: hsl(var(--hyellow), var(--splus), var(--l1));
+  --green1: hsl(var(--hgreen), var(--s), var(--l1));
+  --blue1: hsl(var(--hblue), var(--s), var(--l1));
+  --purple1: hsl(var(--hpurple), var(--s), var(--l1));
+  
+  --l2: 50%;
+  --red2: hsl(var(--hred), var(--splus), var(--l2));
+  --orange2: hsl(var(--horange), var(--splus), var(--l2));
+  --yellow2: hsl(var(--hyellow), var(--splus), var(--l2));
+  --green2: hsl(var(--hgreen), var(--s), var(--l2));
+  --blue2: hsl(var(--hblue), var(--s), var(--l2));
+  --purple2: hsl(var(--hpurple), var(--s), var(--l2));
+  
+  --l3: 44%;
+  --red3: hsl(var(--hred), var(--splus), var(--l3));
+  --orange3: hsl(var(--horange), var(--splus), var(--l3));
+  --yellow3: hsl(var(--hyellow), var(--splus), var(--l3));
+  --green3: hsl(var(--hgreen), var(--s), var(--l3));
+  --blue3: hsl(var(--hblue), var(--s), var(--l3));
+  --purple3: hsl(var(--hpurple), var(--s), var(--l3));
+  
+  --l4: 38%;
+  --red4: hsl(var(--hred), var(--splus), var(--l4));
+  --orange4: hsl(var(--horange), var(--splus), var(--l4));
+  --yellow4: hsl(var(--hyellow), var(--splus), var(--l4));
+  --green4: hsl(var(--hgreen), var(--s), var(--l4));
+  --blue4: hsl(var(--hblue), var(--s), var(--l4));
+  --purple4: hsl(var(--hpurple), var(--s), var(--l4));
+  
+  --l5: 32%;
+  --red5: hsl(var(--hred), var(--splus), var(--l5));
+  --orange5: hsl(var(--horange), var(--splus), var(--l5));
+  --yellow5: hsl(var(--hyellow), var(--splus), var(--l5));
+  --green5: hsl(var(--hgreen), var(--s), var(--l5));
+  --blue5: hsl(var(--hblue), var(--s), var(--l5));
+  --purple5: hsl(var(--hpurple), var(--s), var(--l5));
+}
