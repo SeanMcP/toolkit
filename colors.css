@@ -11,7 +11,7 @@
   --gray900: hsl(220, 6%, 90%);
   --gray950: hsl(220, 6%, 95%);
 
-  --off-black: var(--gray50);
+  --off-black: var(--gray050);
   --off-white: var(--gray950);
 
   --blue: hsl(220, 70%, 44%);
