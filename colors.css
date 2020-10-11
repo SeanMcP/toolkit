@@ -1,18 +1,18 @@
 :root {
-  --gray050: hsl(220, 6%, 5%);
-  --gray100: hsl(220, 6%, 10%);
-  --gray200: hsl(220, 6%, 20%);
-  --gray300: hsl(220, 6%, 30%);
-  --gray400: hsl(220, 6%, 40%);
+  --gray950: hsl(220, 6%, 5%);
+  --gray900: hsl(220, 6%, 10%);
+  --gray800: hsl(220, 6%, 20%);
+  --gray700: hsl(220, 6%, 30%);
+  --gray600: hsl(220, 6%, 40%);
   --gray500: hsl(220, 6%, 50%);
-  --gray600: hsl(220, 6%, 60%);
-  --gray700: hsl(220, 6%, 70%);
-  --gray800: hsl(220, 6%, 80%);
-  --gray900: hsl(220, 6%, 90%);
-  --gray950: hsl(220, 6%, 95%);
+  --gray400: hsl(220, 6%, 60%);
+  --gray300: hsl(220, 6%, 70%);
+  --gray200: hsl(220, 6%, 80%);
+  --gray100: hsl(220, 6%, 90%);
+  --gray050: hsl(220, 6%, 95%);
 
-  --off-black: var(--gray050);
-  --off-white: var(--gray950);
+  --off-black: var(--gray950);
+  --off-white: var(--gray050);
 
   --blue: hsl(220, 70%, 44%);
   --dark-blue: hsl(220, 74%, 33%);
