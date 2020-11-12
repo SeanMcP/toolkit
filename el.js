@@ -10,8 +10,10 @@ var el = function (tag, attributes) {
   var element = document.createElement(tag);
 
   for (var key in attributes) {
-    if (element.hasOwnProperty(key)) {
+    if (key in element) {
       element[key] = attributes[key];
+    } else {
+      element.setAttribute(key, attributes[key]);
     }
   }
 
