@@ -1,0 +1,17 @@
+{
+  "name": "@seanmcp/toolkit",
+  "version": "1.0.0",
+  "description": "🧰 A personal toolkit for web development",
+  "scripts": {
+    "test": "uvu tests",
+    "test:watch": "watchlist tests -- npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanMcP/toolkit.git"
+  },
+  "devDependencies": {
+    "uvu": "^0.5.1",
+    "watchlist": "^0.2.3"
+  }
+}
