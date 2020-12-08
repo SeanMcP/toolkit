@@ -8,6 +8,8 @@
  * @returns {Object}
  */
 export function get() {
+  if (typeof location === "undefined") return null;
+
   const usp = new URLSearchParams(location.search);
   const output = {};
 
