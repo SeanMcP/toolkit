@@ -4,7 +4,7 @@
   "description": "🧰 A personal toolkit for web development",
   "scripts": {
     "test": "uvu tests",
-    "test:watch": "watchlist tests -- npm test"
+    "test:watch": "watchlist js -- npm test"
   },
   "repository": {
     "type": "git",
