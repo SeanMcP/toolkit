@@ -30,3 +30,7 @@ export function get() {
 
   return output;
 }
+
+// module.exports = {
+//   get,
+// };
